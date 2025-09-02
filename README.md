@@ -1,5 +1,4 @@
-# Ask-your-data-BI-assistant
-# Ask-your-data-BI-assistant
+
 #  Ask Your Data — LLM-Powered BI Assistant  
 
 An interactive **Streamlit app** that allows users to query datasets in **natural language**.  
