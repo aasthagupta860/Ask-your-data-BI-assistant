@@ -64,3 +64,6 @@ Open in browser:  http://localhost:8501
 	•	Do not commit .env (API keys).
 	•	Add .env to .gitignore.
 	•	If an API key is exposed, revoke it immediately and generate a new one.
+
+![Query Example](screenshots/query.png)
+![Visualization](screenshots/chart.png)
